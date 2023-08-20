@@ -5,7 +5,6 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N237XNM)
 
-<script src="https://tryhackme.com/badge/2205215"></script>
 
 <!---
 MelodyHSong/MelodyHSong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
