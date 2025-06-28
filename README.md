@@ -8,7 +8,6 @@
 - 📫 How to reach me, @MelodyHSong on Twitter!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N237XNM)
-<img src="https://tryhackme-badges.s3.amazonaws.com/MelodyHSong.png" alt="TryHackMe">
 
 
 <!---
