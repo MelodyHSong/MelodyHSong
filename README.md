@@ -3,9 +3,8 @@
 
 
 - 👋 Hi, I’m @MelodyHSong
-- 👀 I’m interested in music and game developemnt.
-- 🌱 I’m currently learning Java, C#, C++, and using Unity.
-- 📫 How to reach me, @MelodyHSong on Twitter!
+- 👀 I’m interested in music, game developemnt, and graphic design. 
+- 🌱 I’m currently learning Java, C#, Kotlin and using Unity.
 
 ---
 
