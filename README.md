@@ -32,7 +32,7 @@ Here are the enviorments I'm currently diving into:
 [![Substack](https://substackcdn.com/image/fetch/$s_!frah!,w_1200,h_400,c_fill,f_auto,q_auto:best,fl_progressive:steep,g_auto,b_rgb:020617/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94a4705e-9d9c-489d-84a6-7211e47cd949_3840x2160.png)](https://melodyhsong.substack.com/)
 
 ### ☆ VRChat | Worlds ☆
-[![VRChat](https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/64ea7bc8-02c5-4c1e-97cf-5c3aa79300f6/VRC_Logo.png?format=1500w)](https://vrchat.iptvnetworking.com)
+[![VRChat](https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/64ea7bc8-02c5-4c1e-97cf-5c3aa79300f6/VRC_Logo.png?format=1500w)](https://vrchat.com/home/world/wrld_6e4dddb0-138e-4d5f-989a-11321d0e4fc6/info)
 
 
 <p>Thanks for stopping by! Don't hesitate to reach out if you want to say hi!</p>
