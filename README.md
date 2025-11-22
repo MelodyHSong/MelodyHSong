@@ -18,6 +18,13 @@
 
 <br>
 
+<a href="https://open.spotify.com/playlist/34u6QnRWmqdQHimngUSKBw?si=gktMHnfdSqqwKoNab-4Q4Q">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5eXVxZXhpNmhreXRiZm5uZjduaTNxbjU0a3l3ZDFzODU4M3l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OilV1U3PaLmFNBV6wm/giphy.gif" width="200" alt="Cassette Tape">
+</a>
+<p>☆ Melody's Coding Mix ☆</p>
+
+<br>
+
 <h2>☆ What I'm Learning ☆</h2>
 <p>Here are the environments I'm currently diving into:</p>
 
