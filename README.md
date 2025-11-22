@@ -1,42 +1,72 @@
-<div align="center"> ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
-<h1>Hello there, I'm ☆ MelodyHSong ☆!</h1> 
-  
-## ☆ About Me ☆
+<div align="center">
 
-A passionate creative who loves bringing ideas to life through writing and code.
+☆ ━━━━━━━━━━━━━━━━━━━ ☾ ━━━━━━━━━━━━━━━━━━━ ☆
 
-### To capture the impermanent—
+<h1>✨ Hello there, I'm MelodyHSong! ✨</h1>
 
-### forever.
+<p>
+  <i>"To capture the impermanent— forever."</i>
+</p>
 
-## ☆ What I'm Learning ☆
-Here are the enviorments I'm currently diving into:
-
-☆ [Java](https://docs.oracle.com/en/java) | [C#](https://learn.microsoft.com/en-us/dotnet/csharp) | [Kotlin](https://kotlinlang.org/docs/home.html) | [Unity](https://docs.unity.com/en-us) | [Elixir](https://elixir-lang.org/docs.html) ☆
-
-
-
-## ☆ Featured Project ☆
-
-<h3><a href="https://melodyhsong.itch.io/10tinybuids-sudoku">Sudoku! - 10TinyBuilds</a></h3>
-<img src="https://github.com/user-attachments/assets/ffe8adb5-a4ea-4a5a-9b00-a0bc6276e8a6" alt="A screenshot of the Sudoku! game." width="400">
 <br>
 
+<h2>☆ About Me ☆</h2>
+<p>
+  A passionate creative bringing ideas to life through the magic of writing and code.<br>
+  Computer Science Major | Musician | World Builder
+</p>
 
-## ☆ Support me! ☆
+<br>
 
-### ☆ ko-fi ☆  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N237XNM)
+<h2>☆ What I'm Learning ☆</h2>
+<p>Here are the environments I'm currently diving into:</p>
 
-### ☆ Substack ☆
-[![Substack](https://substackcdn.com/image/fetch/$s_!frah!,w_1200,h_400,c_fill,f_auto,q_auto:best,fl_progressive:steep,g_auto,b_rgb:020617/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94a4705e-9d9c-489d-84a6-7211e47cd949_3840x2160.png)](https://melodyhsong.substack.com/)
+<p>
+  <a href="https://docs.oracle.com/en/java"><b>Java</b></a> &nbsp;☆&nbsp; 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><b>C#</b></a> &nbsp;☆&nbsp; 
+  <a href="https://kotlinlang.org/docs/home.html"><b>Kotlin</b></a> &nbsp;☆&nbsp; 
+  <a href="https://docs.unity.com/en-us"><b>Unity</b></a> &nbsp;☆&nbsp; 
+  <a href="https://elixir-lang.org/docs.html"><b>Elixir</b></a>
+</p>
 
-### ☆ VRChat | Worlds ☆
-[![VRChat](https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/64ea7bc8-02c5-4c1e-97cf-5c3aa79300f6/VRC_Logo.png?format=1500w)](https://vrchat.com/home/world/wrld_6e4dddb0-138e-4d5f-989a-11321d0e4fc6/info)
+<br>
 
+<h2>☆ Featured Project ☆</h2>
+
+<h3>🌸 <a href="https://melodyhsong.itch.io/10tinybuids-sudoku">Sudoku! - 10TinyBuilds</a> 🌸</h3>
+
+<a href="https://melodyhsong.itch.io/10tinybuids-sudoku">
+  <img src="https://github.com/user-attachments/assets/ffe8adb5-a4ea-4a5a-9b00-a0bc6276e8a6" alt="A screenshot of the Sudoku! game." width="450" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+</a>
+
+<br><br>
+
+<h2>☆ Support & Connect ☆</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://ko-fi.com/N4N237XNM">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="Ko-fi">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://melodyhsong.substack.com/">
+        <img src="https://img.shields.io/badge/Reading_on-Substack-ff6719?style=for-the-badge&logo=substack&logoColor=white" height="40" alt="Substack">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vrchat.com/home/world/wrld_6e4dddb0-138e-4d5f-989a-11321d0e4fc6/info">
+         <img src="https://img.shields.io/badge/VRChat-Visit_World-12c4cc?style=for-the-badge&logo=vrchat&logoColor=white" height="40" alt="VRChat World">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p>Thanks for stopping by! Don't hesitate to reach out if you want to say hi!</p>
 
-☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆ ━━━━━━━━━━━━━━━━━━━ ☾ ━━━━━━━━━━━━━━━━━━━ ☆
 
 </div>
