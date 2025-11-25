@@ -13,7 +13,7 @@
 <h2>☆ About Me ☆</h2>
 <p>
   A passionate creative bringing ideas to life through the magic of writing and code.<br>
-  Computer Science Major | Musician | World Builder
+  Computer Science Major | Musician | Writer | World Builder
 </p>
 
 <br>
