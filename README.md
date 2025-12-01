@@ -18,7 +18,7 @@
 
 <br>
 
-<a href="https://open.spotify.com/playlist/1T3tzo9izBQ1Otl2CthPE6?si=cb44f9c96bf64ed8">
+<a href="https://music.youtube.com/playlist?list=PLhk_w8qUp-kZ89wVLVADdiBoUcHPrj8ak">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5eXVxZXhpNmhreXRiZm5uZjduaTNxbjU0a3l3ZDFzODU4M3l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OilV1U3PaLmFNBV6wm/giphy.gif" width="200" alt="Cassette Tape">
 </a>
 <p>☆ Melody's Coding Mix ☆</p>
