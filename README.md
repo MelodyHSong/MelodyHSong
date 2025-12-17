@@ -1,31 +1,41 @@
 <div align="center">
 
-𖤐 ━━━━━━━━━━━ ☾ ━━━━━━━━━━━ 𖤐
+𖤐 ━━━ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ━━━ 𖤐
 
 <h1>✨ Hello there, I'm MelodyHSong! ✨</h1>
 
 <p>
-  <i>"To capture the impermanent— forever."</i>
+  <i>"To capture the impermanent— <br><br><br><br><br><br> forever."</i>
 </p>
 
 <br>
 
 <h2>☆ About Me ☆</h2>
+<p>₊˚♪ 𝄞₊˚⊹</p>
 <p>
   A passionate creative bringing ideas to life through the magic of writing and code.<br>
   Computer Science Major | Musician | Writer | World Builder
 </p>
+
+
+<br>
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 <br>
 
 <a href="https://music.youtube.com/playlist?list=PLhk_w8qUp-kZ89wVLVADdiBoUcHPrj8ak">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5eXVxZXhpNmhreXRiZm5uZjduaTNxbjU0a3l3ZDFzODU4M3l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OilV1U3PaLmFNBV6wm/giphy.gif" width="200" alt="Cassette Tape">
 </a>
-<p>☆ Melody's Coding Mix ☆</p>
+<h3> 「 ✦ Melody's Coding Mix ✦ 」 </h3>
+<p> ▶︎ •၊၊||၊|။|||| </p>
 
-<br>
 
-<h2>☆ What I'm Learning ☆</h2>
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+
+<h3> 「 ✦ What I'm Learning ✦ 」 </h3>
+
 <p>Here are the environments I'm currently diving into:</p>
 
 <p>
@@ -38,7 +48,9 @@
 
 <br>
 
-<h2>☆ Featured Project ☆</h2>
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+<h3> 「 ✦ Featured Project ✦ 」 </h3>
 
 <h3>🌸 <a href="https://melodyhsong.itch.io/10tinybuids-sudoku">Sudoku! - 10TinyBuilds</a> 🌸</h3>
 
@@ -48,7 +60,10 @@
 
 <br><br>
 
-<h2>☆ Support & Connect ☆</h2>
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+<h3> 「 ✦ Support & Connect ✦ 」 </h3>
+<p> ദ്ദി◝ ⩊ ◜.ᐟ </p>
 
 <table>
   <tr>
@@ -74,6 +89,6 @@
 
 <p>Thanks for stopping by! Don't hesitate to reach out if you want to say hi!</p>
 
-𖤐 ━━━━━━━━━━━ ☾ ━━━━━━━━━━━ 𖤐
+<p> 𖤐 ── ⋆⋅☆⋅⋆ ── 𖤐 </p>
 
 </div>
