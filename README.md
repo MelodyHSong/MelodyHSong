@@ -2,10 +2,16 @@
 
 𖤐 ━━━ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ━━━ 𖤐
 
-<h1>✨ Hello there, I'm MelodyHSong! ✨</h1>
+<h1>𖤐 Hello there, I'm MelodyHSong! 𖤐</h1>
 
 <p>
-  <i>"To capture the impermanent— <br><br><br><br><br><br> forever."</i>
+  <br>
+  ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+  <br><br>
+  <i>"To capture the impermanent— <br><br><br><br> forever."</i>
+  <br><br>
+  ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+  <br>
 </p>
 
 <br>
