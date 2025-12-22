@@ -108,7 +108,7 @@
 
 <p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F009CD4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=125&lines=Thanks+for+stopping+by.+;Don't+hesitate+to+reach+out+if+you+want+to+say+hi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F009CD4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=125&lines=Thanks+for+stopping+by—+;Don't+hesitate+to+reach+out+if+you+want+to+say+hi.)](https://git.io/typing-svg)
   
 </p>
 
