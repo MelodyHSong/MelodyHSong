@@ -1,23 +1,29 @@
 <div align="center">
 
 𖤐 ━━━ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ━━━ 𖤐
+    <br>
+        <br>
 
-<h1>𖤐 Hello there, I'm MelodyHSong! 𖤐</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F009CD4&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=125&lines=Hello%E2%80%94;I'm+Melody+H.+Song;%F0%96%A4%90+Welcome+%F0%96%A4%90)](https://git.io/typing-svg)
 <p>
-  <br>
+
+𖤐 ━━━ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ━━━ 𖤐
+    <br>
+ 
   ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-  <br><br>
-  <i>"To capture the impermanent— <br><br><br><br> forever."</i>
-  <br><br>
-  ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+  
   <br>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F009CD4&center=true&vCenter=true&repeat=false&width=435&lines=To+capture+the+impermanent%E2%80%94;forever.)](https://git.io/typing-svg)
+  
+  ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+  
 </p>
 
 <br>
 
-<h2>☆ About Me ☆</h2>
 <p>₊˚♪ 𝄞₊˚⊹</p>
+
 <p>
   A passionate creative bringing ideas to life through the magic of writing and code.<br>
   Computer Science Major | Musician | Writer | World Builder
@@ -26,19 +32,18 @@
 
 <br>
 
+
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
-<br>
+<h3> 「 ✦ Melody's Coding Mix ✦ 」 </h3>
 
 <a href="https://music.youtube.com/playlist?list=PLhk_w8qUp-kZ89wVLVADdiBoUcHPrj8ak">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5eXVxZXhpNmhreXRiZm5uZjduaTNxbjU0a3l3ZDFzODU4M3l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OilV1U3PaLmFNBV6wm/giphy.gif" width="200" alt="Cassette Tape">
 </a>
-<h3> 「 ✦ Melody's Coding Mix ✦ 」 </h3>
-<p> ▶︎ •၊၊||၊|။|||| </p>
-
-
-
+<br>
+<br>
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+
 
 <h3> 「 ✦ What I'm Learning ✦ 」 </h3>
 
@@ -49,11 +54,19 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><b>C#</b></a> &nbsp;☆&nbsp; 
   <a href="https://kotlinlang.org/docs/home.html"><b>Kotlin</b></a> &nbsp;☆&nbsp; 
   <a href="https://docs.unity.com/en-us"><b>Unity</b></a> &nbsp;☆&nbsp; 
-  <a href="https://elixir-lang.org/docs.html"><b>Elixir</b></a>
+  <a href="https://docs.python.org/3/"><b>Python</b></a>
 </p>
+
 
 <br>
 
+![Melody's GitHub stats](https://github-readme-stats.vercel.app/api?username=melodyhsong&theme=ambient_gradient&show_icons=true)
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=melodyhsong&theme=shadow-purple&border_radius=4&mode=weekly&background=65%2C000000%2C31082E&ring=E0EB00&dates=E0EB00&fire=E0EB5C)](https://git.io/streak-stats)
+
+<br>
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 <h3> 「 ✦ Featured Project ✦ 」 </h3>
@@ -93,7 +106,11 @@
 
 <br>
 
-<p>Thanks for stopping by! Don't hesitate to reach out if you want to say hi!</p>
+<p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F009CD4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=125&lines=Thanks+for+stopping+by.+;Don't+hesitate+to+reach+out+if+you+want+to+say+hi.)](https://git.io/typing-svg)
+  
+</p>
 
 <p> 𖤐 ── ⋆⋅☆⋅⋆ ── 𖤐 </p>
 
