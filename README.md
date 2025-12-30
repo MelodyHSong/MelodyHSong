@@ -57,17 +57,6 @@
   <a href="https://docs.python.org/3/"><b>Python</b></a>
 </p>
 
-
-<br>
-
-![Melody's GitHub stats](https://github-readme-stats.vercel.app/api?username=melodyhsong&theme=ambient_gradient&show_icons=true)
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=melodyhsong&theme=shadow-purple&border_radius=4&mode=weekly&background=65%2C000000%2C31082E&ring=E0EB00&dates=E0EB00&fire=E0EB5C)](https://git.io/streak-stats)
-
-<br>
-
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 <h3> 「 ✦ Featured Project ✦ 」 </h3>
 
