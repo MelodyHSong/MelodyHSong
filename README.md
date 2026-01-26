@@ -60,10 +60,10 @@
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 <h3> 「 ✦ Featured Project ✦ 」 </h3>
 
-<h3>🌸 <a href="https://melodyhsong.itch.io/10tinybuids-sudoku">Sudoku! - 10TinyBuilds</a> 🌸</h3>
+<h3>🌸 <a href="https://github.com/MelodyHSong/Bad-Apple-ASCII">Bad Apple!!</a> 🌸</h3>
 
-<a href="https://melodyhsong.itch.io/10tinybuids-sudoku">
-  <img src="https://github.com/user-attachments/assets/ffe8adb5-a4ea-4a5a-9b00-a0bc6276e8a6" alt="A screenshot of the Sudoku! game." width="450" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+<a href="https://github.com/MelodyHSong/Bad-Apple-ASCII">
+  <img width="1919" height="1031" alt="Screenshot 2026-01-26 012416" src="https://github.com/user-attachments/assets/369e8a38-7f6b-4b2b-bde6-396a6d80a665" />
 </a>
 
 <br><br>
