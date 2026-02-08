@@ -58,7 +58,12 @@
 </p>
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
-<h3> 「 ✦ Featured Project ✦ 」 </h3>
+<h3> 「 ✦ Featured Projects ✦ 」 </h3>
+
+<h3>🌸 <a href="https://github.com/MelodyHSong/Doki-Glass">Doki-Glass</a> 🌸</h3>
+
+<a href="https://github.com/MelodyHSong/Doki-Glass">
+  <img width="1919" height="1031" alt="<img width="1918" height="979" alt="image" src="https://github.com/user-attachments/assets/7525767e-7aad-469f-9930-07597fc947da" />
 
 <h3>🌸 <a href="https://github.com/MelodyHSong/Bad-Apple-ASCII">Bad Apple!!</a> 🌸</h3>
 
