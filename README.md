@@ -35,13 +35,24 @@
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
-<h3> 「 ✦ Melody's Coding Mix ✦ 」 </h3>
+<div align="center">
 
-<a href="https://music.youtube.com/playlist?list=PLhk_w8qUp-kZ89wVLVADdiBoUcHPrj8ak">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5eXVxZXhpNmhreXRiZm5uZjduaTNxbjU0a3l3ZDFzODU4M3l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OilV1U3PaLmFNBV6wm/giphy.gif" width="200" alt="Cassette Tape">
-</a>
+### 「 ✦ Melody's Coding Mix ✦ 」
 <br>
+
+| ✧ YouTube Music ✧ | ✧ Spotify Playlist ✧ |
+| :---: | :---: |
+| <a href="https://music.youtube.com/playlist?list=PLhk_w8qUp-kZ89wVLVADdiBoUcHPrj8ak"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5eXVxZXhpNmhreXRiZm5uZjduaTNxbjU0a3l3ZDFzODU4M3l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OilV1U3PaLmFNBV6wm/giphy.gif" width="220" alt="Cassette Tape"></a> | <a href="https://open.spotify.com/playlist/1TxzGDc2lNQENPvxbV0UAQ?si=UkNNkkmfQWm7Wuq2wyDhhQ"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1kNHB2YjI2MWQ3cGg0Y2IwMGluODFsZ3hxZnVyaTRkYW84d3V5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9jmRfuAZdhBrVcfIkx/giphy.gif" width="220" alt="Spotify Logo"></a> |
+| `☆ [ YouTube ] ☆` | `☆ [ Spotify ] ☆` |
+
 <br>
+
+`✧ Spotify Live View ✧`
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21y5ckef4mdmcaf5yddqnavwa"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21y5ckef4mdmcaf5yddqnavwa" width="450" alt="Data Card for Spotify"></a>
+
+</div>
+
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 
