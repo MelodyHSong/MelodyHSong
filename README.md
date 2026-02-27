@@ -49,7 +49,7 @@
 
 `✧ Spotify Live View ✧`
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21y5ckef4mdmcaf5yddqnavwa"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21y5ckef4mdmcaf5yddqnavwa" width="450" alt="Data Card for Spotify"></a>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21y5ckef4mdmcaf5yddqnavwa"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21y5ckef4mdmcaf5yddqnavwa" width="850" alt="Data Card for Spotify"></a>
 
 </div>
 
