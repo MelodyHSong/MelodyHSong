@@ -26,7 +26,7 @@
 
 <p>
   A passionate creative bringing ideas to life through the magic of writing and code.<br>
-  Computer Science Major | Musician | Writer | World Builder
+  Developer | Musician | Writer | World Builder
 </p>
 
 
