@@ -68,6 +68,8 @@
   <a href="https://docs.unity.com/en-us"><b>Unity</b></a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MelodyHSong&theme=shadow-purple&timezone=-04%3A00)](https://git.io/streak-stats)
+
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 <h3> 「 ✦ Featured Projects ✦ 」 </h3>
 
